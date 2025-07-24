@@ -1,0 +1,10 @@
+pytest==7.4.0
+pytest-cov==4.1.0
+coverage==7.3.1
+    num_lines = len(input_string.splitlines())
+
+    return {
+        'characters': num_characters,
+        'words': num_words,
+        'lines': num_lines
+    
